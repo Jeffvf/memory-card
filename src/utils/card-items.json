@@ -2,51 +2,63 @@
   "characters": [
     {
       "text": "Rykard",
-      "src": ""
+      "src": "https://assets.reedpopcdn.com/elden-ring-rykard-cover.png/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-rykard-cover.png",
+      "color": "#E9573F"
     },
     {
       "text": "Radahn",
-      "src": ""
+      "src": "https://static1-br.millenium.gg/articles/5/93/85/@/116951-radhan-orig-1-article_cover_bd-1.jpg",
+      "color": "#E9573F"
     },
     {
-      "text": "Ranni",
-      "src": ""
+      "text": "Godrick",
+      "src": "https://assets2.rockpapershotgun.com/elden-ring-godrick.jpg/BROK/resize/1920x1920%3E/format/jpg/quality/80/elden-ring-godrick.jpg",
+      "color": "#CCCC00"
     },
     {
       "text": "Malenia",
-      "src": ""
+      "src": "https://cdn.mos.cms.futurecdn.net/rx57jr35QzqVEgqwrLXX8b.png",
+      "color": "#E9573F"
     },
     {
       "text": "Morgott",
-      "src": ""
+      "src": "https://i.ytimg.com/vi/p8DoLcas1o0/maxresdefault.jpg",
+      "color": "#CCCC00"
     },
     {
       "text": "Mohg",
-      "src": ""
+      "src": "https://pt.jugomobile.com/wp-content/uploads/2022/03/1647896905_Como-vencer-Mohg-Lord-of-Blood-em-Elden-Ring.jpg",
+      "color": "#E9573F"
     },
     {
       "text": "Hoarah Loux",
-      "src": ""
+      "src": "https://assets.reedpopcdn.com/elden-ring-hoarah-loux-tips-strategy-8042-1647951856443.jpg/BROK/thumbnail/1600x900/format/jpg/quality/80/elden-ring-hoarah-loux-tips-strategy-8042-1647951856443.jpg",
+      "color": "#A9A9A9"
     },
     {
-      "text": "Godfrey",
-      "src": ""
+      "text": "Ranni",
+      "src": "https://cdn.mos.cms.futurecdn.net/yW423BEcLLwzMzQLXXAoEB.jpg",
+      "color": "#4169E1"
     },
     {
       "text": "Maliketh",
-      "src": ""
+      "src": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/maliketh-the-black-blade-4k.jpg",
+      "color": "#A9A9A9"
     },
     {
-      "text": "Godskin Duo",
-      "src": ""
+      "text": "Elden Beast",
+      "src": "https://assets2.rockpapershotgun.com/elden-ring-elden-beast.jpg/BROK/resize/1920x1920%3E/format/jpg/quality/80/elden-ring-elden-beast.jpg",
+      "color": "#CCCC00"
     },
     {
       "text": "Rennala",
-      "src": ""
+      "src": "https://psverso.com.br/wp-content/uploads/2022/02/Elden-Ring-Como-derrotar-a-Rennala-Rainha-da-Lua-Cheia.webp",
+      "color": "#4169E1"
     },
     {
       "text": "Fire Giant",
-      "src": ""
+      "src": "https://i.ytimg.com/vi/GDOdyIpvoUw/maxresdefault.jpg",
+      "color": "#A9A9A9"
     }
   ]
 }
