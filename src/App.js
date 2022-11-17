@@ -29,7 +29,10 @@ function App() {
   }, [cardList]);
   return (
     <div className="App">
-      <p>Score: {currentScore} Best Score: {bestScore}</p>
+      <div className="scoreboard">
+        <span>Score: {currentScore}</span>
+        <span>Best Score: {bestScore}</span>
+      </div>
       <CardGenerator update={update}/>
     </div>
   );
