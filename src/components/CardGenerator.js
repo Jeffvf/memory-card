@@ -5,7 +5,7 @@ import uniqid from "uniqid";
 
 export default function CardGenerator({update}){
   const initialState = data.characters.map((characters) => {
-    return {"text": characters.text, "src": characters.src, "id": uniqid()}
+    return {"text": characters.text, "src": characters.src, "color": characters.color, "id": uniqid()}
   });
   const [cardList, setCardList] = useState(initialState);
 
